@@ -1,3 +1,5 @@
+//Programa para transformar uma temperatura em Graus Celsius para Fahrenheit
+
 using System;
 // Questão 1- Maria Carolinne 
 class atv1 {
