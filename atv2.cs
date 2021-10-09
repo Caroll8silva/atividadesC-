@@ -1,3 +1,4 @@
+//Programa para calcular o salário líquido de um professor.
 
 using System;
 // Questão 2 - Maria Carolinne
