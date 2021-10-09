@@ -1,3 +1,5 @@
+//Programa para ler um número. se for posítivo, imprimir a raiz quadrada, senão imprimir o quadrado.
+
 using System;
 // Questão 3 - Maria Carolinne
 class atv2 
