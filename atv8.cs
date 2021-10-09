@@ -1,3 +1,5 @@
+//Programa para calcular um salário.
+
 using System;
 // Questão 8 - Maria Carolinne
 class atv8
