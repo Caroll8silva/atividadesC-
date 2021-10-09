@@ -1,4 +1,4 @@
-//Programa para mostrar a idade de uma pessoa e quantos anos ela terá em 2022.
+//Programa para calcular a área de um círculo.
 
 using System;
 // Questão 4 - Maria Carolinne
