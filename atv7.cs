@@ -1,3 +1,5 @@
+//Programa para calcular a quantidade de degraus para alcançar certa altura.
+
 using System;
 // Questão 7 - Maria Carolinne
 class atv7
