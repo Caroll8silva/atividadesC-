@@ -1,3 +1,5 @@
+//Programa para calcular o preço de um carro.
+
 using System;
 // Questão 6 - Maria Carolinne
 class atv6
